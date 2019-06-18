@@ -1,0 +1,3 @@
+.build/							usr/src/elect
+terraform/scripts/install.sh	usr/src/elect
+terraform/scripts/start.sh		usr/src/elect

@@ -1,0 +1,4 @@
+module agentcore {
+    umbrella "/Users/awadowda/test/elect/.build/checkouts/omr-agentcore/src/agentcore/include"
+    export *
+}

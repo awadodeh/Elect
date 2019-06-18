@@ -1,0 +1,4 @@
+module hcapiplugin {
+    umbrella "/Users/awadowda/test/elect/.build/checkouts/omr-agentcore/src/hcapiplugin/include"
+    export *
+}
