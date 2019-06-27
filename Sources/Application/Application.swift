@@ -19,8 +19,11 @@ public class App {
     }
 
     func postInit() throws {
+        let personRepository: PersonRepository = MockPersonRepository()
+
         // Endpoints
         initializeHealthRoutes(app: self)
+        PeopleController(self.router, repository: personRepository)
     }
 
     public func run() throws {

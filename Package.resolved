@@ -6,8 +6,8 @@
         "repositoryURL": "https://github.com/IBM-Swift/BlueCryptor.git",
         "state": {
           "branch": null,
-          "revision": "6f79b4ea0a7ef8acb08ba3f3e23da32e83acaca3",
-          "version": "1.0.28"
+          "revision": "942460f9087977401879e18bbe216fe61cd049fc",
+          "version": "1.0.30"
         }
       },
       {
@@ -33,8 +33,8 @@
         "repositoryURL": "https://github.com/IBM-Swift/CloudEnvironment.git",
         "state": {
           "branch": null,
-          "revision": "11fdf40bfd925c78a4d19981de13f26e5a94da84",
-          "version": "9.0.1"
+          "revision": "91f4da3c5d24804bb7bbba98705f1c722d453ad8",
+          "version": "9.1.0"
         }
       },
       {
@@ -42,8 +42,17 @@
         "repositoryURL": "https://github.com/IBM-Swift/Configuration.git",
         "state": {
           "branch": null,
-          "revision": "1319813a098ce20bd02160d81aa59e8a9037a179",
-          "version": "3.0.3"
+          "revision": "da98da148509a3d7bd61fe01e7ade8926b52026b",
+          "version": "3.0.4"
+        }
+      },
+      {
+        "package": "ElectCommon",
+        "repositoryURL": "https://github.com/awadodeh/ElectCommon.git",
+        "state": {
+          "branch": "master",
+          "revision": "5202c2b667aa671a51c765816e8f1e446cee35c4",
+          "version": null
         }
       },
       {
@@ -114,8 +123,8 @@
         "repositoryURL": "https://github.com/IBM-Swift/KituraContracts.git",
         "state": {
           "branch": null,
-          "revision": "4f8237d6fe2cc1593761660dc4d0ab2c516d73eb",
-          "version": "1.1.2"
+          "revision": "bdd4abf3932e11388ab690ea72a43e17b98dfd78",
+          "version": "1.1.3"
         }
       },
       {
